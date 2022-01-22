@@ -1,2 +1,2 @@
 # QuantikGame
-Implimentation of QuantikGame classes ( Oriented Object Programming PHP)
+Implementation of QuantikGame classes ( Oriented Object Programming PHP)
